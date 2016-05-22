@@ -69,7 +69,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [BlackBoard][kmbeamer] | [PDF][BlackBoard-pdf] | A theme mimicking a blackboard, by Kazuki Maeda. |
 | [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
 | [s4ndm4n] | [PDF][s4ndm4n-pdf] | A dark theme with color-accented boxes and a verbose footline. Created by Andreas Rümpel. |
-
+| [strath]  | [PDF][strath-pdf]  | A theme for the EEE department of Strathclyde University, by Xavier Bellekens|
+| [strath2] | [PDF][strath2-pdf] | A theme for the Institute for Future Cities of Strathclyde University, by Xavier Bellekens|
+| [Abertay] | [PDF][abertay-pdf] | A theme for the University of Abertay Dundee, by Xavier Bellekens|
 
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
@@ -200,3 +202,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [DarkConsole-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_DarkConsole.pdf
 [s4ndm4n]: http://andreasruempel.de/blog/2015-09-16-darkbeamer/
 [s4ndm4n-pdf]: http://andreasruempel.de/blog/2015-09-16-darkbeamer/s4ndm4n-example.pdf
+[strath-pdf]: https://github.com/Noktec/Strachlyde-EEE-Beamer-Template/blob/master/EEE/test.pdf
+[strath2-pdf]: https://github.com/Noktec/Strachlyde-EEE-Beamer-Template/blob/master/IFC/test.pdf
+[abertay-pdf]: https://github.com/Noktec/Abertay_Beamer_Template/blob/master/AMG/test.pdf
